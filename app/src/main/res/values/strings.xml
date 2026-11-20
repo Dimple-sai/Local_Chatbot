@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Chat Bot</string>
+    <string name="new_chat">New chat</string>
+    <string name="message_hint">Message</string>
+    <string name="send">Send</string>
+    <string name="stop">Stop generating</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="switch_to_dark">Dark mode</string>
+    <string name="switch_to_light">Light mode</string>
+    <string name="open_menu">Open conversations</string>
+    <string name="close_menu">Close conversations</string>
+    <string name="welcome_title">Ask anything</string>
+    <string name="welcome">Replies come from the model on this computer. Open the side menu for older chats, or use the trash icon to delete one.</string>
+    <string name="chats">Chats</string>
+    <string name="no_chats">No conversations yet</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="delete_chat">Delete chat</string>
+    <string name="delete_chat_message">Delete \"%1$s\"? This removes it from this phone.</string>
+    <string name="save">Save</string>
+    <string name="model_label">Model</string>
+    <string name="server_label">Local server</string>
+    <string name="settings_help">Uses qwen3.5:4b from Ollama on this computer. Keep the phone on the same Wi-Fi. The address needs a colon before the port, for example http://192.168.0.161:11434.</string>
+    <string name="invalid_server">Use a colon before the port, for example http://192.168.0.161:11434</string>
+    <string name="model_missing">Couldn\'t reach %1$s at %2$s. Start Ollama on this computer, then try again.</string>
+</resources>

@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Local desktop chatbot
+/frontend/node_modules/
+/frontend/dist/
+/backend/.venv/
+/backend/**/__pycache__/
+/data/
+/models/*.gguf
